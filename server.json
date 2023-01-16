@@ -1,0 +1,7 @@
+{
+  "accounts": [
+    { "id": 1, "email": "spencer_boggs@icloud.com" },
+    { "id": 2, "email": "spenceboggs@gmail.com" },
+    { "id": 3, "email": "spencerdboggs@gmail.com" }
+  ]
+}
